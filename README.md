@@ -1,5 +1,12 @@
+<h1 align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBxenl1a2oyaW82cmdhM2w5azB3ZWJjd2RnNDMwa2poczF1bDBhaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oxHQr6r2x0GqGnois/giphy.gif" />
+</h1>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Ishant Arun</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate in everything from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isharun01&label=Profile%20views&color=0e75b6&style=flat" alt="isharun01" /> </p>
 
