@@ -1,6 +1,7 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBxenl1a2oyaW82cmdhM2w5azB3ZWJjd2RnNDMwa2poczF1bDBhaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oxHQr6r2x0GqGnois/giphy.gif" /> </h1>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#0e75b6;">Ishant Arun</span></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I'm Ishant Arun</h1>
+
 <h3 align="center">💻 A DEV ,SEC-ENG from India 🇮🇳</h3>
 
 ---
